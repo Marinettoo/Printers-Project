@@ -1,4 +1,3 @@
-```markdown
 # Proyecto Servidor de Correo
 
 ## Características del Proyecto
