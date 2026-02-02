@@ -1,5 +1,6 @@
 # Proyecto Servidor de Correo
 
+# "Old school email configuration"
 ## Características del Proyecto
 Este proyecto está compuesto por una infraestructura de correo electrónico completa dividida en dos máquinas virtuales. Una servidora de nombres (DNS) para la resolución de dominios, y otra que actúa como Servidor de Correo (MTA/MDA) usando Postfix y Dovecot para el envío y recepción de emails.
 
